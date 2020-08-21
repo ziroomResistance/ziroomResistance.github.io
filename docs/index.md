@@ -3,7 +3,7 @@ title: 首页
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  # 抵制自如甲醛房
 ---
 
 <ul>
